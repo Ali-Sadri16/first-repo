@@ -1,5 +1,4 @@
-#include Warrior.h
-
+#include Warrior.h:
 
 yes
 ouais je suis trop fort
