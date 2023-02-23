@@ -1,3 +1,6 @@
+#include Warrior.h
+
+
 yes
 ouais je suis trop fort
 3eme
